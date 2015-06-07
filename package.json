@@ -1,0 +1,17 @@
+{
+  "name": "clean_ds_store",
+  "version": "0.1.0",
+  "description": "to clean DS_Store file under mac folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "iojs index.js"
+  },
+  "author": "XGHeaven",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "colors": "^1.1.0",
+    "commander": "^2.8.1",
+    "q": "^1.4.1"
+  }
+}
